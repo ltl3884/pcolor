@@ -1,0 +1,19 @@
+pcolor
+
+when I put something into console with method puts(eg.  p "ltl3884"), I can hardly find the information,so try to use pcolor 
+
+Installation
+
+sudo gem install pcolor
+
+Use it
+
+>irb
+>require 'rubygems'
+>require 'pcolor'
+>p "ltl3884",:red
+
+you will see "ltl3884" is red
+
+more colors (green,yellow,blue,purple,sky)
+
